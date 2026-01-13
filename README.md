@@ -53,21 +53,97 @@ I am a **Full-Stack Developer** focused on high-performance, real-time architect
 
 ---
 
-### 🛠️ Tech Arsenal
 
+### 🛠️ Tech Arsenal
 <div align="center">
   <p><b>Languages & Frameworks</b></p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,html,css,tailwind" />
+  
+  <!-- First row: 10 icons -->
+  <a href="" target="_blank" title="JavaScript">
+    <img src="https://raw.githubusercontent.com/PANYAMHEMANTH/PANYAMHEMANTH/main/svgs/js.svg" alt="JavaScript" width="48" height="48">
+  </a>
+  
+  <a href="" target="_blank" title="TypeScript">
+    <img src="https://raw.githubusercontent.com/PANYAMHEMANTH/PANYAMHEMANTH/main/svgs/ts.svg" alt="TypeScript" width="48" height="48">
+  </a>
+  
+  <a href="" target="_blank" title="React">
+    <img src="https://raw.githubusercontent.com/PANYAMHEMANTH/PANYAMHEMANTH/main/svgs/react.svg" alt="React" width="48" height="48">
+  </a>
+  
+  <a href="" target="_blank" title="Node.js">
+    <img src="https://raw.githubusercontent.com/PANYAMHEMANTH/PANYAMHEMANTH/main/svgs/nodejs.svg" alt="Node.js" width="48" height="48">
+  </a>
+  
+  <a href="" target="_blank" title="Express.js">
+    <img src="https://raw.githubusercontent.com/PANYAMHEMANTH/PANYAMHEMANTH/main/svgs/expressjs.svg" alt="Express.js" width="48" height="48">
+  </a>
+  
+  <a href="" target="_blank" title="Python">
+    <img src="https://raw.githubusercontent.com/PANYAMHEMANTH/PANYAMHEMANTH/main/svgs/python.svg" alt="Python" width="48" height="48">
+  </a>
+  
+  <a href="" target="_blank" title="HTML">
+    <img src="https://raw.githubusercontent.com/PANYAMHEMANTH/PANYAMHEMANTH/main/svgs/html.svg" alt="HTML" width="48" height="48">
+  </a>
+  
+  <a href="" target="_blank" title="CSS">
+    <img src="https://raw.githubusercontent.com/PANYAMHEMANTH/PANYAMHEMANTH/main/svgs/css.svg" alt="CSS" width="48" height="48">
+  </a>
+  
+  <a href="" target="_blank" title="Tailwind CSS">
+    <img src="https://raw.githubusercontent.com/PANYAMHEMANTH/PANYAMHEMANTH/main/svgs/tailwind.svg" alt="Tailwind CSS" width="48" height="48">
+  </a>
+  
+  <a href="" target="_blank" title="Material UI">
+    <img src="https://raw.githubusercontent.com/PANYAMHEMANTH/PANYAMHEMANTH/main/svgs/MaterialUI-Dark.svg" alt="Material UI" width="48" height="48">
+  </a>
+   <a href="" target="_blank" title="Material UI">
+    <img src="https://raw.githubusercontent.com/PANYAMHEMANTH/PANYAMHEMANTH/main/svgs/NextJS-Dark.svg" alt="Material UI" width="48" height="48">
+  </a>
+  
   <br/><br/>
-  <p><b>Database & Cloud</b></p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,aws,firebase,docker,git,linux" />
-  <br/><br/>
-  <p><b>Specialized Tech</b></p>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/HLS%20Streaming-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  <img src="https://img.shields.io/badge/Crypto%20Payments-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
+  
+  <p><b>Databases, Tools & Cloud</b></p>
+  
+  <!-- Second row: 9 icons -->
+  <a href="" target="_blank" title="MongoDB">
+    <img src="https://raw.githubusercontent.com/PANYAMHEMANTH/PANYAMHEMANTH/main/svgs/mongodb.svg" alt="MongoDB" width="48" height="48">
+  </a>
+  
+  <a href="" target="_blank" title="PostgreSQL">
+    <img src="https://raw.githubusercontent.com/PANYAMHEMANTH/PANYAMHEMANTH/main/svgs/postgres.svg" alt="PostgreSQL" width="48" height="48">
+  </a>
+  
+  <a href="" target="_blank" title="MySQL">
+    <img src="https://raw.githubusercontent.com/PANYAMHEMANTH/PANYAMHEMANTH/main/svgs/mysql.svg" alt="MySQL" width="48" height="48">
+  </a>
+  
+  <a href="" target="_blank" title="AWS">
+    <img src="https://raw.githubusercontent.com/PANYAMHEMANTH/PANYAMHEMANTH/main/svgs/aws.svg" alt="AWS" width="48" height="48">
+  </a>
+  
+  <a href="" target="_blank" title="Docker">
+    <img src="https://raw.githubusercontent.com/PANYAMHEMANTH/PANYAMHEMANTH/main/svgs/docker.svg" alt="Docker" width="48" height="48">
+  </a>
+  
+  <a href="" target="_blank" title="Git">
+    <img src="https://raw.githubusercontent.com/PANYAMHEMANTH/PANYAMHEMANTH/main/svgs/git.svg" alt="Git" width="48" height="48">
+  </a>
+  
+  <a href="" target="_blank" title="Linux">
+    <img src="https://raw.githubusercontent.com/PANYAMHEMANTH/PANYAMHEMANTH/main/svgs/linux.svg" alt="Linux" width="48" height="48">
+  </a>
+  
+  <a href="" target="_blank" title="Postman">
+    <img src="https://raw.githubusercontent.com/PANYAMHEMANTH/PANYAMHEMANTH/main/svgs/Postman.svg" alt="Postman" width="48" height="48">
+  </a>
+  
+  <a href="" target="_blank" title="GitHub">
+    <img src="https://raw.githubusercontent.com/PANYAMHEMANTH/PANYAMHEMANTH/main/svgs/Github-Dark.svg" alt="GitHub" width="48" height="48">
+  </a>
+  
 </div>
-
 ---
 
 ### 🚀 Top Projects
