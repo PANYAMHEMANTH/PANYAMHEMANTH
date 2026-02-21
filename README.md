@@ -149,11 +149,11 @@ Nov 2023 – May 2024 │ Full Stack Intern (PHP & MySQL)        │ RMJ IT Solu
 
 <!-- Row 2: 2 badges -->
 <a href="https://www.credly.com/badges/2fce3673-76db-4ae0-9e02-39dd53927e9d/public_url" title="Google Cloud Engineering Certificate – Credly">
-  <img src="https://images.credly.com/images/0586d038-b371-48e0-ade3-e680a080a85a/image.png" width="13%"/>
+  <img src="https://images.credly.com/images/0586d038-b371-48e0-ade3-e680a080a85a/image.png" width="18%"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://www.credly.com/badges/c3554690-b957-41a4-b475-6ba394d32ab0" title="AWS Knowledge: Amazon EKS – Credly">
-  <img src="https://images.credly.com/images/f5efafe6-ebdc-485c-9ffa-3a05533e634b/blob" width="13%"/>
+  <img src="https://images.credly.com/images/f5efafe6-ebdc-485c-9ffa-3a05533e634b/blob" width="18%"/>
 </a>
 
 <br/><br/>
@@ -173,11 +173,11 @@ Nov 2023 – May 2024 │ Full Stack Intern (PHP & MySQL)        │ RMJ IT Solu
 
 <!-- Row 1: 2 badges -->
 <a href="https://www.hackerrank.com/certificates/7a347f3bb4e5" title="HackerRank – SQL Intermediate">
-  <img src="https://github.com/PANYAMHEMANTH/PANYAMHEMANTH/blob/main/hack.png" width="22%"/>
+  <img src="https://github.com/PANYAMHEMANTH/PANYAMHEMANTH/blob/main/hackerrank.png" width="20%"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://leetcode.com/u/Hemanth_0000/" title="LeetCode Profile">
-  <img src="https://github.com/PANYAMHEMANTH/PANYAMHEMANTH/blob/main/leetc.png" width="22%"/>
+  <img src="https://github.com/PANYAMHEMANTH/PANYAMHEMANTH/blob/main/leetcode.png" width="20%"/>
 </a>
 
 <br/><br/>
