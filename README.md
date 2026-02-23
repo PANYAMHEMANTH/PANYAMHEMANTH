@@ -199,13 +199,9 @@ Nov 2023 – May 2024 │ Full Stack Intern (PHP & MySQL)        │ RMJ IT Solu
 
 <br/>
 
-<!-- Row 1: 2 badges -->
+<!-- Row 1: 1 badge -->
 <a href="https://drive.google.com/file/d/1_cePQ3tO3YgWWbXXMgrCUHux1GL94hWd/view?usp=drive_link" title="Google for Developers – Virtual Internship Completion">
   <img src="https://github.com/PANYAMHEMANTH/Test/blob/8613210bffb006be2be5f3dbf7e1fbd46e396991/google.png" width="24%"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://drive.google.com/file/d/1NOBkcxFKeq_bTgEo5M1gKEf-y4ZTkK6O/view?usp=sharing" title="HacknCrafts – Web Development Internship Completion">
-  <img src="https://img.shields.io/badge/HacknCrafts-Web%20Dev%20Internship%20%E2%9C%85-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" height="52"/>
 </a>
 
 <br/><br/>
