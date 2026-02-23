@@ -37,7 +37,6 @@ I am a **Full-Stack Developer** with **2+ years** of experience shipping product
 * 🎓 **Education:** B.Tech in Engineering (Pursuing) — G. Pullaiah College of Engineering & Technology, Kurnool
 * 🏢 **Experience:**
   * **RMJ IT Solutions** *(Jul 2024 – Present)*: LMS, HLS Streaming, Kafka, Virtual Labs, Crypto Payments
-  * **HacknCrafts** *(Jun–Aug 2025)*: React, Agile, live client deployments
   * **Google Virtual Intern** *(Oct–Dec 2024)*: 6 Skill Badges — Cloud, TensorFlow, Android & Web
   * **RMJ IT Solutions – PHP/MySQL** *(Nov 2023 – May 2024)*: CMS, admin dashboards, grade management
 * 💻 **Current Focus:** Enterprise LMS with **HLS Adaptive Streaming**, **Apache Kafka** pipelines & **Crypto Payments**
@@ -107,7 +106,6 @@ I am a **Full-Stack Developer** with **2+ years** of experience shipping product
 
 ```
 Jul 2024 – Present  │ MERN/PERN Stack Developer Intern       │ RMJ IT Solutions · Kurnool (On-site)
-Jun 2025 – Aug 2025 │ Web Development Intern                 │ HacknCrafts · Bengaluru (Remote)
 Oct 2024 – Dec 2024 │ Google Virtual Developer Intern        │ Google for Developers (Remote)
 Nov 2023 – May 2024 │ Full Stack Intern (PHP & MySQL)        │ RMJ IT Solutions · Kurnool (On-site)
 ```
