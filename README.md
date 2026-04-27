@@ -7,6 +7,9 @@
 </div>
 
 <p align="center">
+   <a href="https://www.credly.com/users/hemanth-panyam.17aabd1e/" target="_blank">
+     <img src="https://github.com/PANYAMHEMANTH/PANYAMHEMANTH/blob/main/svgs/credly.svg" alt="LeetCode" width="55" height="55" style="margin: 0 8px;"/>
+  </a>
   <a href="https://www.linkedin.com/in/hemanth-panyam/" target="_blank">
     <img src="https://github.com/PANYAMHEMANTH/PANYAMHEMANTH/blob/main/svgs/LinkedIn.svg" alt="LinkedIn" width="55" height="55" style="margin: 0 8px;"/>
   </a>&nbsp;&nbsp;
@@ -16,7 +19,8 @@
   <a href="https://github.com/PANYAMHEMANTH/" target="_blank">
     <img src="https://github.com/PANYAMHEMANTH/PANYAMHEMANTH/blob/main/svgs/Github-Dark.svg" alt="Portfolio" width="55" height="55" style="margin: 0 8px;"/>
   </a> &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Hemanth_0000/" target="_blank"><img src="https://github.com/PANYAMHEMANTH/PANYAMHEMANTH/blob/main/leetcode.png" alt="LeetCode" width="55" height="55" style="margin: 0 8px;"/>
+  <a href="https://leetcode.com/u/Hemanth_0000/" target="_blank">
+    <img src="https://github.com/PANYAMHEMANTH/PANYAMHEMANTH/blob/main/leetcode.png" alt="LeetCode" width="55" height="55" style="margin: 0 8px;"/>
   </a>
 </p>
 
