@@ -7,7 +7,17 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hemanth-hemanth-81660426b/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="55" height="55" style="margin: 0 8px;"/></a> <a href="https://wa.me/918247455505" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="55" height="55" style="margin: 0 8px;"/></a> <a href="mailto:panyamhemanth2005@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="55" height="55" style="margin: 0 8px;"/></a> <a href="https://panyamhemanth.github.io/MyPortfolio/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Portfolio" width="55" height="55" style="margin: 0 8px;"/></a> <a href="https://leetcode.com/u/Hemanth_0000/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="55" height="55" style="margin: 0 8px;"/></a>
+  <a href="https://www.linkedin.com/in/hemanth-hemanth-81660426b/" target="_blank">
+    <img src="https://github.com/PANYAMHEMANTH/PANYAMHEMANTH/blob/main/svgs/LinkedIn.svg" alt="LinkedIn" width="55" height="55" style="margin: 0 8px;"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:panyamhemanth2005@gmail.com" target="_blank">
+    <img src="https://github.com/PANYAMHEMANTH/PANYAMHEMANTH/blob/main/svgs/Gmail-Dark.svg" alt="Gmail" width="55" height="55" style="margin: 0 8px;"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/PANYAMHEMANTH/" target="_blank">
+    <img src="https://github.com/PANYAMHEMANTH/PANYAMHEMANTH/blob/main/svgs/Github-Dark.svg" alt="Portfolio" width="55" height="55" style="margin: 0 8px;"/>
+  </a> &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Hemanth_0000/" target="_blank"><img src="https://github.com/PANYAMHEMANTH/PANYAMHEMANTH/blob/main/leetcode.png" alt="LeetCode" width="55" height="55" style="margin: 0 8px;"/>
+  </a>
 </p>
 
 <br/>
@@ -115,7 +125,15 @@ Nov 2023 – May 2024 │ Full Stack Intern (PHP & MySQL)        │ RMJ IT Solu
 
 <br/>
 
-<a href="https://drive.google.com/file/d/1wQqlkOn5TsSf6JXJYmuo6FKVluSvUp6h/view?usp=sharing" title="Cambridge Linguaskill English Certification"><img src="https://github.com/PANYAMHEMANTH/Test/blob/8613210bffb006be2be5f3dbf7e1fbd46e396991/cambridge.png" width="14%"/></a>&nbsp;&nbsp;<a href="https://developers.google.com/profile/u/panyamhemanth" title="Google for Developers – 6 Skill Badges"><img src="https://github.com/PANYAMHEMANTH/Test/blob/8613210bffb006be2be5f3dbf7e1fbd46e396991/google.png" width="24%"/></a>&nbsp;&nbsp;<a href="https://cs50.harvard.edu/certificates/87732942-8b2b-4e17-a9c6-07c370bd8c51" title="Harvard CS50: Introduction to Computer Science"><img src="https://github.com/PANYAMHEMANTH/Test/blob/main/havard.png" width="16%"/></a>
+<a href="https://drive.google.com/file/d/1wQqlkOn5TsSf6JXJYmuo6FKVluSvUp6h/view?usp=sharing" title="Cambridge Linguaskill English Certification">
+<img src="https://github.com/PANYAMHEMANTH/Test/blob/8613210bffb006be2be5f3dbf7e1fbd46e396991/cambridge.png" width="14%"/>
+</a>&nbsp;&nbsp;
+<a href="https://developers.google.com/profile/u/panyamhemanth" title="Google for Developers – 6 Skill Badges">
+  <img src="https://github.com/PANYAMHEMANTH/Test/blob/8613210bffb006be2be5f3dbf7e1fbd46e396991/google.png" width="24%"/>
+</a>&nbsp;&nbsp;
+<a href="https://cs50.harvard.edu/certificates/87732942-8b2b-4e17-a9c6-07c370bd8c51" title="Harvard CS50: Introduction to Computer Science">
+  <img src="https://github.com/PANYAMHEMANTH/Test/blob/main/havard.png" width="16%"/>
+</a>
 
 <br/><br/>
 
@@ -133,7 +151,9 @@ Nov 2023 – May 2024 │ Full Stack Intern (PHP & MySQL)        │ RMJ IT Solu
 
 <br/>
 
-<a href="https://www.hackerrank.com/certificates/7a347f3bb4e5" title="HackerRank – SQL Intermediate"><img src="https://github.com/PANYAMHEMANTH/PANYAMHEMANTH/blob/main/hackerrank.png" width="20%"/></a>&nbsp;&nbsp;<a href="https://leetcode.com/u/Hemanth_0000/" title="LeetCode Profile"><img src="https://github.com/PANYAMHEMANTH/PANYAMHEMANTH/blob/main/leetcode.png" width="20%"/></a>
+<a href="https://www.hackerrank.com/certificates/7a347f3bb4e5" title="HackerRank – SQL Intermediate">
+<img src="https://github.com/PANYAMHEMANTH/PANYAMHEMANTH/blob/main/hackerrank.png" width="20%"/>
+</a>&nbsp;&nbsp;<a href="https://leetcode.com/u/Hemanth_0000/" title="LeetCode Profile"><img src="https://github.com/PANYAMHEMANTH/PANYAMHEMANTH/blob/main/leetcode.png" width="20%"/></a>
 
 <br/><br/>
 
