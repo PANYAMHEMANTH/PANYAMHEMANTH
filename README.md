@@ -10,6 +10,9 @@
    <a href="https://www.credly.com/users/hemanth-panyam.17aabd1e/" target="_blank">
      <img src="https://github.com/PANYAMHEMANTH/PANYAMHEMANTH/blob/main/svgs/credly.svg" alt="LeetCode" width="55" height="55" style="margin: 0 8px;"/>
   </a>&nbsp;&nbsp;
+   <a href="https://discord.com/users/1080769912454270977" target="_blank">
+    <img src="https://github.com/PANYAMHEMANTH/PANYAMHEMANTH/blob/main/svgs/Discord.svg" alt="LinkedIn" width="55" height="55" style="margin: 0 8px;"/>
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/hemanth-panyam/" target="_blank">
     <img src="https://github.com/PANYAMHEMANTH/PANYAMHEMANTH/blob/main/svgs/LinkedIn.svg" alt="LinkedIn" width="55" height="55" style="margin: 0 8px;"/>
   </a>&nbsp;&nbsp;
