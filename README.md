@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hemanth-hemanth-81660426b/" target="_blank">
+  <a href="https://www.linkedin.com/in/hemanth-panyam/" target="_blank">
     <img src="https://github.com/PANYAMHEMANTH/PANYAMHEMANTH/blob/main/svgs/LinkedIn.svg" alt="LinkedIn" width="55" height="55" style="margin: 0 8px;"/>
   </a>&nbsp;&nbsp;
   <a href="mailto:panyamhemanth2005@gmail.com" target="_blank">
