@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub statistics</title>
+  <desc id="desc">Local GitHub statistics card for Panyam Hemanth</desc>
+  <rect width="495" height="195" rx="8" fill="#0d1117"/>
+  <text x="24" y="38" fill="#fe428e" font-family="Arial, sans-serif" font-size="22" font-weight="700">GitHub Stats</text>
+  <text x="24" y="78" fill="#c9d1d9" font-family="Arial, sans-serif" font-size="16">Panyam Hemanth</text>
+  <text x="24" y="112" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">Full-stack development • Cloud • Distributed systems</text>
+  <text x="24" y="146" fill="#58a6ff" font-family="Arial, sans-serif" font-size="14">github.com/PANYAMHEMANTH</text>
+  <text x="24" y="174" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">Local snapshot</text>
+</svg>
