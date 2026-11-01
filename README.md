@@ -37,16 +37,17 @@
 
 ### ⚡ The Developer "Beat"
 
-I am a **Full-Stack Developer** with **2+ years** of experience shipping production-grade applications used by **1000+ users**. I blend **MERN** and **PERN** stacks with distributed systems like **Apache Kafka**, **HLS Adaptive Streaming**, and **AWS** to build robust, scalable platforms.
+I am an **SDE** with **2+ years of experience** designing and delivering production-grade applications used by **1,000+ users**. My expertise spans **MERN** and **PERN** ecosystems, distributed systems, cloud infrastructure, and event-driven architectures. I hold the **AWS Certified CloudOps Engineer – Associate** certification and the **Microsoft Certified: SQL AI Developer Associate** certification.
 
-* 🎓 **Education:** B.Tech in Engineering (Pursuing) — G. Pullaiah College of Engineering & Technology, Kurnool
-* 🏢 **Experience:**
-  * **RMJ IT Solutions** *(Jul 2024 – Present)*: LMS, HLS Streaming, Kafka, Virtual Labs, Crypto Payments
-  * **Google Virtual Intern** *(Jan–Mar 2025)*: React, Agile, live client deployments
-  * **Google Virtual Intern** *(Oct–Dec 2024)*: 6 Skill Badges — Cloud, TensorFlow, Android & Web
-  * **RMJ IT Solutions – PHP/MySQL** *(Nov 2023 – May 2024)*: CMS, admin dashboards, grade management
-* 💻 **Current Focus:** Enterprise LMS with **HLS Adaptive Streaming**, **Apache Kafka** pipelines & **Crypto Payments**
-* 🧠 **Interests:** Blockchain, Healthcare Tech, Distributed Systems, Cybersecurity, Cloud-Native Dev
+- 🎓 **Education:** Pursuing a B.Tech in Engineering at G. Pullaiah College of Engineering & Technology, Kurnool
+- 🏢 **Professional Experience:**
+  - **RMJ IT Solutions** *(Jul 2024 – Present):* Building enterprise learning platforms with HLS streaming, Apache Kafka, virtual labs, and crypto payment integrations
+  - **Google Virtual Internship** *(Jan–Mar 2025):* Developed React applications using Agile delivery practices and supported live client deployments
+  - **Google Virtual Internship** *(Oct–Dec 2024):* Completed six skill badges across cloud, TensorFlow, Android, and web development
+  - **RMJ IT Solutions – PHP/MySQL** *(Nov 2023 – May 2024):* Developed CMS platforms, administrative dashboards, and student grade-management systems
+- 🏅 **Certifications:** AWS Certified CloudOps Engineer – Associate · Microsoft Certified: SQL AI Developer Associate
+- 💻 **Current Focus:** Scalable LMS architecture, HLS adaptive streaming, Apache Kafka pipelines, AWS cloud operations, and secure payment systems
+- 🧠 **Areas of Interest:** Cloud-native development, distributed systems, blockchain, healthcare technology, cybersecurity, and AI-enabled applications
 
 <br clear="all"/>
 
