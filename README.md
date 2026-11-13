@@ -37,7 +37,7 @@
 
 ### ⚡ The Developer "Beat"
 
-I am an **SDE** with **2+ years of experience** designing and delivering production-grade applications used by **1,000+ users**. My expertise spans **MERN** and **PERN** ecosystems, distributed systems, cloud infrastructure, and event-driven architectures. I hold the **AWS Certified CloudOps Engineer – Associate** certification and the **Microsoft Certified: SQL AI Developer Associate** certification.
+I am an **SDE** with **2+ years of experience** designing and delivering production-grade applications used by **1,000+ users**. My expertise spans **MERN** and **PERN** ecosystems, distributed systems, cloud infrastructure, and event-driven architectures. I hold the **AWS Certified Cloud Practitioner – Foundational**, **AWS Certified CloudOps Engineer – Associate**, and **Microsoft Certified: SQL AI Developer Associate** certifications.
 
 - 🎓 **Education:** Pursuing a B.Tech in Engineering at G. Pullaiah College of Engineering & Technology, Kurnool
 - 🏢 **Professional Experience:**
@@ -45,7 +45,7 @@ I am an **SDE** with **2+ years of experience** designing and delivering product
   - **Google Virtual Internship** *(Jan–Mar 2025):* Developed React applications using Agile delivery practices and supported live client deployments
   - **Google Virtual Internship** *(Oct–Dec 2024):* Completed six skill badges across cloud, TensorFlow, Android, and web development
   - **RMJ IT Solutions – PHP/MySQL** *(Nov 2023 – May 2024):* Developed CMS platforms, administrative dashboards, and student grade-management systems
-- 🏅 **Certifications:** AWS Certified CloudOps Engineer – Associate · Microsoft Certified: SQL AI Developer Associate
+- 🏅 **Certifications:** AWS Certified Cloud Practitioner – Foundational · AWS Certified CloudOps Engineer – Associate · Microsoft Certified: SQL AI Developer Associate
 - 💻 **Current Focus:** Scalable LMS architecture, HLS adaptive streaming, Apache Kafka pipelines, AWS cloud operations, and secure payment systems
 - 🧠 **Areas of Interest:** Cloud-native development, distributed systems, blockchain, healthcare technology, cybersecurity, and AI-enabled applications
 
@@ -137,6 +137,16 @@ Nov 2023 – May 2024 │ Full Stack Intern (PHP & MySQL)        │ RMJ IT Solu
   <tr>
     <td style="padding: 12px;"><a href="https://www.credly.com/badges/7d775ad7-33f3-42d3-bf83-df54ff970903/public_url" title="AWS Certified CloudOps Engineer – Associate">    <img src="./certificates/associate/aws-certified-cloudops-engineer-associate.png" alt="AWS Certified CloudOps Engineer – Associate" width="180"/></a></td>
     <td style="padding: 12px;"><a href="https://learn.microsoft.com/api/credentials/share/en-us/panyam-hemanth/3A3049609056FC58?sharingId=72DE55B83B397498" title="Microsoft Certified: SQL AI Developer Associate"><img src="./certificates/associate/microsoft-certified-sql-ai-developer-associate.png" alt="Microsoft Certified: SQL AI Developer Associate" width="220"/></a></td>
+  </tr>
+</table>
+
+<br/><br/>
+
+**🌱 Foundational Level**
+
+<table align="center" style="border-collapse: separate; border-spacing: 24px 12px;">
+  <tr>
+    <td style="padding: 12px;"><a href="https://www.credly.com/badges/ac04d1c8-0a9c-4dd3-b116-dab04d496964/public_url" title="AWS Certified Cloud Practitioner – Foundational"><img src="./certificates/foundational/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner – Foundational" width="180"/></a></td>
   </tr>
 </table>
 
