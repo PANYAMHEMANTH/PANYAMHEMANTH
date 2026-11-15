@@ -109,6 +109,19 @@ I am an **SDE** with **2+ years of experience** designing and delivering product
 
 ---
 
+### 🌍 Open Source Contributions
+
+Merged work in Canonical-maintained projects — **2 PRs** · **+109 / −2** across 4 files.
+
+| 🔧 Project | 🔗 PR | 📝 Contribution |
+| :--- | :--- | :--- |
+| **lxc/lxc** | [#4746](https://github.com/lxc/lxc/pull/4746) | Fixed a capability-drop no-op in `userns.conf` that silently re-enabled `CAP_SYS_RAWIO` / `CAP_SYS_MODULE`, leaving systemd boot degraded in unprivileged containers |
+| **juju/juju** | [#23736](https://github.com/juju/juju/pull/23736) | Made `show-secret` fail closed on ambiguous labels and empty IDs, preventing accidental exposure of secret values |
+
+<sub>Includes tests, CLI help & generated-doc updates · merged Nov 2026</sub>
+
+---
+
 ### 💼 Experience Timeline
 
 ```
